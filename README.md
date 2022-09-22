@@ -8,6 +8,9 @@ We completed this project within a week.
 
 - [Click here](https://bobibrown.netlify.app/) to preview our project.
 
+![logo](https://user-images.githubusercontent.com/101393406/191666228-40c68d23-84e2-4edb-bb13-a8c13f934663.png)
+
+
 [bobbibrowncosmetics.com](https://www.bobbibrowncosmetics.com/) is a leading Women Cosmetics Products Ecommerce Website. Bobbi Brown is an American professional make-up artist, author, and the founder of Bobbi Brown Cosmetics. Brown created ten natural-shade lipsticks which according to Entrepreneur “revolutionized the beauty industry”. She has written nine books about beauty and wellness.
 
 ## Credits
@@ -45,7 +48,8 @@ We completed this project within a week.
 
 Our landing consists of some of the main functionalities such as location detection, search product part, login, Sign-Up, view profile, add to cart, product preview, increment and decrement of cart items, add and remove items from cart, proceed payment part, sliding images and products and many more.
 
-![Home page](![Uploading 1-HomePage.png…]()
+![1-HomePage](https://user-images.githubusercontent.com/101393406/191666303-4f84533f-ae46-496a-a14c-642b8e91ca00.png)
+
 
 ### 2. Registration Page
 
