@@ -43,7 +43,6 @@ We completed this project within a week.
 - Sort functions for High to Low and Low to High Price, Rating, Bestsellers, Name and Color.
 - Add to cart option for buying products.
 - Payment Page.
-- Media query for All Size Screen.
 
 ## Credits
 
@@ -147,12 +146,11 @@ After clicking on proceed button of cart, we will be redirected to payment page,
 
 ## Team
 Click on name to visit Github Account
-- [MD Arshad Khan](https://github.com/mdarshadkhan1998)
-- [Abhinav Roy](https://github.com/abhinavroy121)
-- [Shivanshu Chobey](https://github.com/Shivanshu5998s)
-- [Yogesh Kumar](https://github.com/iYogeshkumar)
-- [Nikesh Borkar](https://github.com/NikeshBorkar)
-- [Rahul Kumar](https://github.com/krRahul10)
+- [kundan wakudkar](https://github.com/Kundan-10)
+- [Soumyanil Podder](https://github.com/soumyanil22)
+- [Nikhil-81](https://github.com/Nikhil-81)
+- [Surya Moharana](https://github.com/SuryAMoharana)
+- [ROHIT KAPADE](https://github.com/rohitkapade)
 
 ## 🔗 Linkedin
 
