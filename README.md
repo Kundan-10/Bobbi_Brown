@@ -121,7 +121,7 @@ After clicking on proceed button of cart, we will be redirected to payment page,
 
 ## Team
 Click on name to visit Github Account
-- [kundan wakudkar](https://github.com/Kundan-10)
+- [Kundan Wakudkar](https://github.com/Kundan-10)
 - [Soumyanil Podder](https://github.com/soumyanil22)
 - [Nikhil-81](https://github.com/Nikhil-81)
 - [Surya Moharana](https://github.com/SuryAMoharana)
