@@ -6,10 +6,7 @@ It has an Global instant delivery service. Customers of this company use the mob
 Cloning [bobbibrowncosmetics.com](https://www.bobbibrowncosmetics.com/) was our project for Unit-4 Construct week at Masai School. Our main objective was to complete all main functionality of this e-commerce website , starting from sing up till buying of the products, and that too without refreshing or rerendering the website more than once throughout the operation.  
 We completed this project within a week.
 
-- [Click here](https://bobbi-brown-clone-arshad-abhinav-yogesh-shivanshu-rahul-nikesh.netlify.app/) to preview our project.
-- [MD Arshad Khan](https://medium.com/@mdarshadkhan1998/clone-of-bobbibrowncosmetics-com-5e0baa7bd62b),[Shivanshu Chobey](https://medium.com/@shivanshuchobey5998/bobbibrown-com-website-clone-construct-week-unit-4-237dd9990d7c) Click here to view our Blog.
-- [Click here](https://drive.google.com/file/d/1bGrJOXcpS2e1ZPlwFjyBPsqSXb_5iucg/view?usp=sharing) to watch a brief preview of our project in video format.
-![Logo](./bobbi-brown/src/Readme%20Images/logo.png)
+- [Click here](https://bobibrown.netlify.app/) to preview our project.
 
 [bobbibrowncosmetics.com](https://www.bobbibrowncosmetics.com/) is a leading Women Cosmetics Products Ecommerce Website. Bobbi Brown is an American professional make-up artist, author, and the founder of Bobbi Brown Cosmetics. Brown created ten natural-shade lipsticks which according to Entrepreneur “revolutionized the beauty industry”. She has written nine books about beauty and wellness.
 
@@ -19,7 +16,7 @@ We completed this project within a week.
 - Content : [bobbibrowncosmetics.com](https://www.bobbibrowncosmetics.com/)
 - CSS Library: [Bootstrap](https://getbootstrap.com/) | [Tailwind CSS](https://tailwindcss.com/) | [Material-UI](https://v4.mui.com/)
 - Icons : [Reacct-Font Awesome](https://fontawesome.com/)
-- References : [MDN Docs](https://developer.mozilla.org/en-US/) | [W3School](https://www.w3schools.com/) | [React](https://reactjs.org/) | [React Redux](https://react-redux.js.org/)
+- References : [MDN Docs](https://developer.mozilla.org/en-US/) | [W3School](https://www.w3schools.com/)
 
 ## Tech Stack
 - React
@@ -39,8 +36,6 @@ We completed this project within a week.
 - Search bar for finding the product by it's name and viewing it.
 - Product page for different categories.
 - Detailed product preview page
-- Filters for custom price
-- Sort functions for High to Low and Low to High Price, Rating, Bestsellers, Name and Color.
 - Add to cart option for buying products.
 - Payment Page.
 
