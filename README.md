@@ -45,7 +45,7 @@ We completed this project within a week.
 
 Our landing consists of some of the main functionalities such as location detection, search product part, login, Sign-Up, view profile, add to cart, product preview, increment and decrement of cart items, add and remove items from cart, proceed payment part, sliding images and products and many more.
 
-![Home page](![Uploading 1-HomePage.png…]())
+![Home page](![Uploading 1-HomePage.png…]()
 
 ### 2. Registration Page
 
