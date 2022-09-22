@@ -154,21 +154,17 @@ Click on name to visit Github Account
 
 ## 🔗 Linkedin
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-arshad-khan-350206154/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kundan-wakudkar-b4664b233/)
 
 
-[MD Arshad Khan](https://www.linkedin.com/in/md-arshad-khan-350206154/), 
-[Abhinav Roy](https://www.linkedin.com/in/abhinav-roy-35154120a/), 
-[Shivanshu Chobey](https://www.linkedin.com/in/shivanshu5998/), 
-[Yogesh Kumar](https://www.linkedin.com/in/yogeshkumar21101995/), 
-[Nikesh Borkar](https://www.linkedin.com/in/nikesh-borkar/),
-[Rahul Kumar](https://www.linkedin.com/in/md-arshad-khan-350206154/)
+[Kundan Wakudkar](https://www.linkedin.com/in/kundan-wakudkar-b4664b233/), 
+
 
 ## Authors
 Click the name to visit their Github Profile
-- [MD Arshad Khan](https://github.com/mdarshadkhan1998)
+- [Kundan Wakudkar](https://github.com/Kundan-10)
 
 ## Support
 
-For support, email - [mdarshadkhan1998@gmail.com](mdarshadkhan1998@gmail.com)
+For support, email - [Kundanwakudkar10@gmail.com](Kundanwakudkar10@gmail.com)
 
