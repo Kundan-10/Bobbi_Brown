@@ -4,7 +4,7 @@
 [Bobbi Brown Cosmetics](https://www.bobbibrowncosmetics.com/) is a global prestige beauty brand that empowers women to embrace and enhance their individual beauty. 
 It has an Global instant delivery service. Customers of this company use the mobile application or website to order prestige beauty products online.
 
-Cloning [bobbibrowncosmetics.com](https://www.bobbibrowncosmetics.com/) was our project for Unit-4 Construct week at Masai School. Our main objective was to complete all main functionality of this e-commerce website , starting from sing up till buying of the products, and that too without refreshing or rerendering the website more than once throughout the operation.  
+Cloning [bobbibrowncosmetics.com](https://www.bobbibrowncosmetics.com/) was our project for Unit-2 Construct week at Masai School. Our main objective was to complete all main functionality of this e-commerce website , starting from sing up till buying of the products, and that too without refreshing or rerendering the website more than once throughout the operation.  
 We completed this project within a week.
 
 - [Click here](https://bobibrown.netlify.app/) to preview our project.
@@ -23,12 +23,10 @@ We completed this project within a week.
 - References : [MDN Docs](https://developer.mozilla.org/en-US/) | [W3School](https://www.w3schools.com/)
 
 ## Tech Stack
-- React
-- Redux
 - HTML 5
 - CSS 3
 - JavaScript
-- CSS Library — Bootstrap, Tailwind CSS, Material-UI
+- CSS Library — Bootstrap,css
 - Github
 
 **Client:** [bobbibrowncosmetics.com](https://www.bobbibrowncosmetics.com/)
