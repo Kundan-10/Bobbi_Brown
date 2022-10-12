@@ -18,8 +18,8 @@ We completed this project within a week.
 
 - Images : [bobbibrowncosmetics.com](https://www.bobbibrowncosmetics.com/)
 - Content : [bobbibrowncosmetics.com](https://www.bobbibrowncosmetics.com/)
-- CSS Library: [Bootstrap](https://getbootstrap.com/) | [Tailwind CSS](https://tailwindcss.com/) | [Material-UI](https://v4.mui.com/)
-- Icons : [Reacct-Font Awesome](https://fontawesome.com/)
+- CSS Library: [Bootstrap](https://getbootstrap.com/) 
+- Icons : [Font Awesome](https://fontawesome.com/)
 - References : [MDN Docs](https://developer.mozilla.org/en-US/) | [W3School](https://www.w3schools.com/)
 
 ## Tech Stack
